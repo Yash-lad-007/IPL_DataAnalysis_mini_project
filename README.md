@@ -1,4 +1,4 @@
-IPL Data Analysis (2008-2020)
+# IPL Data Analysis (2008-2020)
 This repository contains a data analysis project focused on the Indian Premier League (IPL) from the 2008 to 2020 seasons. The analysis is conducted in a Google Colab notebook and explores various aspects of the game, including team performance, player statistics, and match trends over the years.
 
 Analysis Highlights
