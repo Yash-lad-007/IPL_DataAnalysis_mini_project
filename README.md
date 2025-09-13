@@ -4,7 +4,7 @@ This repository contains a data analysis project focused on the Indian Premier L
 Analysis Highlights
 The IPL_analysis.ipynb notebook provides a deep dive into key metrics, including:
 
-Team Performance: A historical overview of how teams have performed across different seasons.
+Team Performance: A historical overview of how teams have performed across different seasons. 
 
 Player Statistics: Analysis of key player metrics such as most runs, most wickets, and highest strike rates.
 
