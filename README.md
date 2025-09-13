@@ -2,7 +2,7 @@
 This repository contains a data analysis project focused on the Indian Premier League (IPL) from the 2008 to 2020 seasons. The analysis is conducted in a Google Colab notebook and explores various aspects of the game, including team performance, player statistics, and match trends over the years.
 
 Analysis Highlights
-The IPL_analysis.ipynb notebook provides a deep dive into key metrics, including:
+The IPL_analysis.ipynb notebook provides a deep dive into key metrics, including: 
 
 Team Performance: A historical overview of how teams have performed across different seasons. 
 
