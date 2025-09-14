@@ -26,8 +26,6 @@ To view and run this analysis, you can simply open the notebook in Google Colab 
 
 Clone the repository:
 
-git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-
 
 Open in Google Colab:
 Click on the IPL_analysis.ipynb file in the repository and then click the "Open in Colab" button at the top. This will open the notebook in your browser, where you can run the cells.
