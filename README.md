@@ -24,9 +24,6 @@ NumPy: For numerical operations.
 How to Use
 To view and run this analysis, you can simply open the notebook in Google Colab directly.
 
-Clone the repository:
-
-
 Open in Google Colab:
 Click on the IPL_analysis.ipynb file in the repository and then click the "Open in Colab" button at the top. This will open the notebook in your browser, where you can run the cells.
 
