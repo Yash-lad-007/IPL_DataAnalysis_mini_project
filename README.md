@@ -5,7 +5,7 @@ This project performs an exploratory data analysis (EDA) on Indian Premier Leagu
 
 ### Dependencies
 The following Python libraries are required to run this notebook:
-* `numpy`  
+* `numpy`   
 * `pandas`
 * `matplotlib.pyplot`
 * `seaborn`
