@@ -8,7 +8,7 @@ The following Python libraries are required to run this notebook:
 * `numpy`    
 * `pandas`
 * `matplotlib.pyplot` 
-* `seaborn`
+* `seaborn` 
 
 ### Data
 The analysis uses two primary datasets:
