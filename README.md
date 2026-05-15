@@ -4,7 +4,7 @@
 This project performs an exploratory data analysis (EDA) on Indian Premier League (IPL) matches and ball-by-ball data from the 2008 to 2020 seasons. The analysis uses Python and its data science libraries to uncover interesting insights and trends within the IPL data.
    
 ### Dependencies 
-The following Python libraries are required to run this notebook:
+The following Python libraries are required to run this notebook: 
 * `numpy`    
 * `pandas`
 * `matplotlib.pyplot`   
